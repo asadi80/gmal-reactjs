@@ -1,0 +1,31 @@
+.email-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .email-table-header {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .email-row:hover {
+    background-color: #f2f2f2;
+  }
+  
+  .email-cell {
+    padding: 10px;
+  }
+  
+  .email-cell:first-child {
+    width: 20%; /* Adjust the width as needed */
+  }
+  
+  .email-cell:nth-child(2) {
+    width: 30%; /* Adjust the width as needed */
+  }
+  
+  .email-cell:nth-child(3) {
+    width: 50%; /* Adjust the width as needed */
+  }
+  
